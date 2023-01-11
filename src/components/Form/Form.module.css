@@ -1,0 +1,25 @@
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.input_form{
+    width: 400px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 5px;
+    margin: auto;
+}
+
+.add_btn{
+    background-color: #c2cae1;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.title{
+margin: auto;
+}

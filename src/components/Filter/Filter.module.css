@@ -1,0 +1,16 @@
+.form_filter{
+    display: flex;
+    flex-direction: column;
+}
+
+.input_filter{
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+    border: none;
+}
+
+.filter{
+    display: flex;
+    flex-direction: column;
+}
